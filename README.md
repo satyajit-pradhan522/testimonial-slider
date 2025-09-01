@@ -24,7 +24,7 @@ This project allows users to view customer/client testimonials in a sliding caro
 
 ## 📸 Screenshot  
 
-![Testimonial Slider Screenshot](./screenshot.png)  
+![Testimonial Slider Screenshot](TestimonialSlider/Screenshot.png)  
  
 
 ---
